@@ -18,3 +18,5 @@ netsh int tcp set global autotuninglevel=disabled
 netsh int tcp set global rss=enabled
 
 netsh int tcp show global
+
+pause
